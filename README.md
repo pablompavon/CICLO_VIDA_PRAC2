@@ -34,4 +34,4 @@ Consists on a folder which contains the original data and the cleaned data. The 
 
  - Code license: [MIT](httpschoosealicense.comlicensesmit)
  
- - Dataset license: Unknown
+ - Dataset license: Unknown (not specified in Kaggle).
