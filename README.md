@@ -16,11 +16,11 @@ The chosen dataset has been [Prosper Loan Data](https://www.kaggle.com/shikhar07
 
 ## Code
 
-Consists on one file developed in R language.
+Consists on a folder which contains a singe file with the developed code in R language.
 
-## Files
+## FicherosDatos
 
-Consists on a folder which contains the original data and the cleaned data.
+Consists on a folder which contains the original data and the cleaned data. The original data has been compressed in ZIP in order to be able to upload it to GitHub.
 
 ## Authors
 
